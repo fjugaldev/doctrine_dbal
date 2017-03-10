@@ -1,0 +1,14 @@
+{
+    "name": "fjugalde/dbal",
+    "description": "Probando el componente dbal de doctrine",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Francisco Javier Ugalde",
+            "email": "javierugalde@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "v2.5.5"
+    }
+}
